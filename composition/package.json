@@ -1,0 +1,19 @@
+{
+  "name": "section-21-3",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.22.4",
+    "vue": "^3.2.33"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.4",
+    "@vue/cli-service": "~5.0.4",
+    "@vue/compiler-sfc": "^3.2.33",
+    "eslint-plugin-vuejs-accessibility": "^1.1.1"
+  }
+}
